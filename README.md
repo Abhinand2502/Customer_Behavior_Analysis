@@ -100,7 +100,7 @@ Created an interactive dashboard to visualize:
 ✨ Revenue by Age Group
 ✨ Shipping Type Comparison
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 ---
 
 # 🎯 Key Insights
